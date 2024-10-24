@@ -57,3 +57,5 @@ public class Dog {
 }
 
    System.out.println("REVISADO POR EDWIN D ");
+    System.out.println("REVISADO POR Karina ");
+     System.out.println("REVISADO POR segunda vez");
